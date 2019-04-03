@@ -1,8 +1,8 @@
 import pcinput
 
-getal1 = pcinput.getInteger('Getal1 = ')
-getal2 = pcinput.getInteger('Getal2 = ')
-getal3 = pcinput.getInteger('Getal3 = ')
+getal1 = pcinput.getFloat('Getal1 = ')
+getal2 = pcinput.getFloat('Getal2 = ')
+getal3 = pcinput.getFloat('Getal3 = ')
 som = getal1 + getal2 + getal3
 gemiddelde = som/3
 
